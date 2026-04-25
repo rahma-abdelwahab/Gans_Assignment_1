@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DSAI 490 — Assignment 1: Representation Learning with Autoencoders
 
 **Dataset:** Medical MNIST (`andrewmvd/medical-mnist` on Kaggle)  
@@ -47,3 +48,6 @@ Place your `kaggle.json` in `~/.kaggle/` then run the notebook.
 ## Running
 
 Open `notebooks/DSAI_490_Assignment1_AE_VAE.ipynb` in Google Colab (GPU runtime recommended).
+=======
+# Gans_Assignment_1
+>>>>>>> 64320ecbf4d4255745b39f11428e200992627078
