@@ -1,6 +1,3 @@
-Here’s your cleaned, ready-to-paste **README.md** (properly formatted and polished). Just copy everything below 👇
-
-````markdown
 # DSAI 490 - Assignment 1: Medical Image Reconstruction with Autoencoders
 
 ## 📋 Project Overview
