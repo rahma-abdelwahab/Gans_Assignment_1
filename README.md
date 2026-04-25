@@ -113,8 +113,6 @@ Typical observations:
 * **AE** → Lower reconstruction error (sharp outputs)
 * **VAE** → Better latent structure & generalization
 
-👉 *(Add your actual MSE values here after running the notebook)*
-
 ---
 
 ## 🧩 Key Features
